@@ -12,6 +12,6 @@
         "account"
     ],
     'data': [
-        "views/cleanfact.xml"
+        "views/product_template.xml"
     ]
 }
